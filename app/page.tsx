@@ -396,6 +396,29 @@ export default function Home() {
           </div>
         </div>
       </section>
+<a
+  href="https://wa.me/5515991327654"
+  target="_blank"
+  rel="noreferrer"
+  style={{
+    position: "fixed",
+    bottom: "20px",
+    right: "20px",
+    backgroundColor: "#25D366",
+    color: "#fff",
+    padding: "14px 18px",
+    borderRadius: "50px",
+    textDecoration: "none",
+    fontWeight: "bold",
+    boxShadow: "0 4px 12px rgba(0,0,0,0.3)",
+    zIndex: 9999,
+    display: "flex",
+    alignItems: "center",
+    gap: "8px",
+  }}
+>
+  💬 WhatsApp
+</a>
     </main>
   );
 }
